@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.ibrahimdenizz.javacourse.lesson2.PersonTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.192 s <<< FAILURE! - in com.ibrahimdenizz.javacourse.lesson2.PersonTest
+shouldReturnHelloWorld(com.ibrahimdenizz.javacourse.lesson2.PersonTest)  Time elapsed: 0.049 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	This method must return a result of type String
+
+	at com.ibrahimdenizz.javacourse.lesson2.PersonTest.shouldReturnHelloWorld(PersonTest.java:11)
+
